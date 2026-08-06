@@ -9,7 +9,7 @@
 <br><br>
 
 <a href="https://github.com/opndrm/founders/actions/workflows/validate.yml"><img alt="Installer validation" src="https://github.com/opndrm/founders/actions/workflows/validate.yml/badge.svg"></a>
-<a href="https://github.com/opndrm/founders/pull/1"><img alt="Installer preview" src="https://img.shields.io/badge/release-preview-00bcd4?style=flat-square"></a>
+<a href="https://github.com/opndrm/founders"><img alt="Founders repository" src="https://img.shields.io/badge/source-opndrm%2Ffounders-222222?style=flat-square"></a>
 <a href="https://opndrm-founders.whiteoutdreams.chatgpt.site"><img alt="Open Founders site" src="https://img.shields.io/badge/open-Codex_Site-00bcd4?style=flat-square"></a>
 <img alt="macOS" src="https://img.shields.io/badge/macOS-supported-111111?style=flat-square&logo=apple">
 <img alt="Windows" src="https://img.shields.io/badge/Windows-HERDR_preview-111111?style=flat-square&logo=windows11">
@@ -95,7 +95,7 @@ curl -fsSL https://raw.githubusercontent.com/opndrm/founders/main/install.sh | b
 ```
 
 > [!IMPORTANT]
-> The installer is currently under review in [Build three-space OPNDRM workflow installer](https://github.com/opndrm/founders/pull/1). The permanent `main` commands become live after that change is merged.
+> Review the installer source and security boundary at [opndrm/founders](https://github.com/opndrm/founders) before running it.
 
 ## The model route
 
@@ -165,9 +165,7 @@ Read the complete trust boundary in [SECURITY.md](SECURITY.md).
 ## Project status
 
 - Codex Site: [OPNDRM Founders Workflow](https://opndrm-founders.whiteoutdreams.chatgpt.site)
-- Installer branch: [`codex/build-opndrm-installer`](https://github.com/opndrm/founders/tree/codex/build-opndrm-installer)
-- Review: [Build three-space OPNDRM workflow installer](https://github.com/opndrm/founders/pull/1)
-- Compare: [review the complete installer diff](https://github.com/opndrm/founders/compare/main...codex/build-opndrm-installer)
+- Repository: [opndrm/founders](https://github.com/opndrm/founders)
 - Validation: macOS Bash and Windows PowerShell GitHub Actions
 
 <div align="center">

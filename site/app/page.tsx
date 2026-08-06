@@ -83,7 +83,7 @@ export default function Home() {
       <section className="hero od-shell" id="top">
         <div className="eyebrow od-eyebrow od-reveal">
           <span className="live-dot" />
-          Founder workflow / installer preview
+          Founder workflow / one-command installer
         </div>
         <h1 className="od-display od-reveal od-reveal--late">
           One command.
@@ -102,11 +102,11 @@ export default function Home() {
           </a>
           <a
             className="secondary-button od-button od-button--secondary"
-            href="https://github.com/opndrm/founders/pull/1"
+            href="https://github.com/opndrm/founders"
             target="_blank"
             rel="noreferrer"
           >
-            Review the build ↗
+            Open the repository ↗
           </a>
         </div>
         <div className="hero-status od-status" aria-label="Workflow summary">
@@ -199,8 +199,8 @@ export default function Home() {
             </button>
           </div>
           <p className="preview-note">
-            Preview release. Permanent <code>main</code> commands activate after
-            the installer PR is reviewed and merged.
+            Source, security policy, and updates live at{" "}
+            <a href="https://github.com/opndrm/founders">github.com/opndrm/founders</a>.
           </p>
         </div>
       </section>
@@ -259,7 +259,7 @@ export default function Home() {
         <p>Visible agents. Separated roles. Honest receipts.</p>
         <div className="footer-links">
           <a href="https://github.com/opndrm/founders">Repository</a>
-          <a href="https://github.com/opndrm/founders/pull/1">Installer PR</a>
+          <a href="https://github.com/opndrm/founders">Installer source</a>
           <a href="https://github.com/opndrm/founders/blob/main/SECURITY.md">Security</a>
         </div>
       </footer>
