@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Loop"
+  short_description: "Run bounded, verified agent loops"
+  default_prompt: "Use $crew-loop to design a Captain-approved, bounded loop with clear verification and a stop condition."

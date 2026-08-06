@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Folder Stop"
+  short_description: "Enforce safeguards for dangerous commands"
+  default_prompt: "Use $crew-folder-stop to assess and safely configure command protection for the Crew workflow."

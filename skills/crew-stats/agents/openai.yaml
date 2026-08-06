@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Stats"
+  short_description: "Crew site, audit, and visual-system workflow"
+  default_prompt: "Use $crew-stats to update the Crew Overview from verified JCode evidence."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Shop"
+  short_description: "Research fair prices, reputable sellers, and shopping risks."
+  default_prompt: "Research this purchase and give me a concise fair-price and trusted-seller verdict."

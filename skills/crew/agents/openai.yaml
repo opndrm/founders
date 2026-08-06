@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew"
+  short_description: "Operate Crew's visible JCode workflow"
+  default_prompt: "Use Crew to identify the live JCode session, operate the visible terminal, keep No Mistakes visible, and report verified state."

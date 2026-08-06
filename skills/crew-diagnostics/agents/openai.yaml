@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Diagnostics"
+  short_description: "Truthful Crew workspace diagnostics"
+  default_prompt: "Diagnose the Crew WezTerm workspace and report verified state without operating JCode, No Mistakes, or Crew Map."

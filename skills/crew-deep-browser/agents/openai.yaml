@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Deep Browser"
+  short_description: "Operate approved browser tasks reliably"
+  default_prompt: "Use $crew-deep-browser to safely inspect and complete this browser task."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew YT"
+  short_description: "Retrieve clean YouTube video transcripts"
+  default_prompt: "Use $crew-yt to retrieve the transcript for this YouTube video."

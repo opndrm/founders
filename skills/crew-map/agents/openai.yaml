@@ -1,0 +1,5 @@
+interface:
+  display_name: "Crew Map"
+  short_description: "Map a large effort as Crew Map decision tickets"
+policy:
+  allow_implicit_invocation: false

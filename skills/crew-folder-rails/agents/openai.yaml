@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Folder Rails"
+  short_description: "Set repository-specific agent guardrails"
+  default_prompt: "Use $crew-folder-rails to establish or review concise guardrails for a Crew repository folder."

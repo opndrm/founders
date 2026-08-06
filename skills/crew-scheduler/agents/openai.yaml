@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Scheduler"
+  short_description: "Bounded read-only Crew monitoring"
+  default_prompt: "Use $crew-scheduler to plan a Captain-approved read-only Crew monitoring cadence."

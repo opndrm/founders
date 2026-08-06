@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Roadmap"
+  short_description: "Plan Open Dream Ops and Crew Console product delivery"
+  default_prompt: "Create or update the Crew product roadmap."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Vercel"
+  short_description: "Publish Open Dream product sites through Vercel."
+  default_prompt: "Set up or publish an Open Dream product site through the Crew 21 Vercel team."

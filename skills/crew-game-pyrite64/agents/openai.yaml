@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Game Pyrite64"
+  short_description: "Build original Pyrite64 games with verified native N64 gates."
+  default_prompt: "Set up or validate the Pyrite64 editor, native toolchain, and one bounded game gate."

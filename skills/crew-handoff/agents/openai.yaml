@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Handoff"
+  short_description: "Capture portable context for a clean handoff"
+  default_prompt: "Use $crew-handoff to capture the current work for a fresh agent."

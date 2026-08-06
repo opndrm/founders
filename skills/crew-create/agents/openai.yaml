@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Create"
+  short_description: "Prepare Captain-approved Crew research or build slices for JCode"
+  default_prompt: "Use Crew Create to prepare a scoped, evidence-backed JCode research or build request."

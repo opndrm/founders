@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Frames"
+  short_description: "Create original cinematic game cutscenes with HyperFrames."
+  default_prompt: "Use Crew Frames to plan an original anime-inspired game cutscene and render a preview."

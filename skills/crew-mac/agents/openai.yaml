@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Mac"
+  short_description: "Set up private, low-overhead Mac performance tracking"
+  default_prompt: "Use Crew Mac to plan or set up private Mac performance tracking."
