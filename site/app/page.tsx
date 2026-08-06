@@ -60,7 +60,7 @@ export default function Home() {
     <main>
       <div className="grid-noise" aria-hidden="true" />
 
-      <nav className="nav shell-width" aria-label="Primary navigation">
+      <nav className="nav od-shell" aria-label="Primary navigation">
         <a className="brand" href="#top" aria-label="OPNDRM Founders home">
           <span className="brand-mark">O</span>
           <span>OPNDRM / FOUNDERS</span>
@@ -80,28 +80,28 @@ export default function Home() {
         </div>
       </nav>
 
-      <section className="hero shell-width" id="top">
-        <div className="eyebrow">
+      <section className="hero od-shell" id="top">
+        <div className="eyebrow od-eyebrow od-reveal">
           <span className="live-dot" />
           Founder workflow / installer preview
         </div>
-        <h1>
+        <h1 className="od-display od-reveal od-reveal--late">
           One command.
           <br />
-          <span>Three spaces.</span>
+          <span className="od-accent">Three spaces.</span>
           <br />
           One App.
         </h1>
-        <p className="hero-copy">
+        <p className="hero-copy od-lead od-reveal od-reveal--later">
           A visible agent workflow for founders who want the coder, gate, and
           independent auditor separated—and every claim backed by a receipt.
         </p>
         <div className="hero-actions">
-          <a className="primary-button" href="#install">
+          <a className="primary-button od-button" href="#install">
             Get the installer <span>↓</span>
           </a>
           <a
-            className="secondary-button"
+            className="secondary-button od-button od-button--secondary"
             href="https://github.com/opndrm/founders/pull/1"
             target="_blank"
             rel="noreferrer"
@@ -109,18 +109,20 @@ export default function Home() {
             Review the build ↗
           </a>
         </div>
-        <div className="hero-status" aria-label="Workflow summary">
+        <div className="hero-status od-status" aria-label="Workflow summary">
           <span><b>MODEL</b> deepseek-v4-flash:0731-cloud</span>
           <span><b>ROOT</b> ~/Desktop/App</span>
           <span><b>SCREEN</b> localhost:4600</span>
         </div>
       </section>
 
-      <section className="workflow shell-width" id="workflow">
+      <hr className="od-rule od-shell" />
+
+      <section className="workflow od-shell" id="workflow">
         <div className="section-heading">
           <div>
-            <span className="section-index">01 / WORKFLOW</span>
-            <h2>The Crew flow, reduced to one lane.</h2>
+            <span className="section-index od-eyebrow">01 / WORKFLOW</span>
+            <h2>The Crew flow,<br /><span className="od-accent">one lane.</span></h2>
           </div>
           <p>
             The installer creates only these three spaces. All three point at
@@ -149,10 +151,12 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="install-section shell-width" id="install">
+      <hr className="od-rule od-shell" />
+
+      <section className="install-section od-shell" id="install">
         <div className="install-copy">
-          <span className="section-index">02 / INSTALL</span>
-          <h2>Paste once. Keep control.</h2>
+          <span className="section-index od-eyebrow">02 / INSTALL</span>
+          <h2>Paste once.<br /><span className="od-accent">Keep control.</span></h2>
           <p>
             The bootstrap verifies each tool, asks before changing the machine,
             preserves existing work, and stops if a required trust boundary is
@@ -201,11 +205,13 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="model-section shell-width">
+      <hr className="od-rule od-shell" />
+
+      <section className="model-section od-shell">
         <div className="section-heading compact">
           <div>
-            <span className="section-index">03 / ROUTING</span>
-            <h2>Fast by default. Deliberate when hard.</h2>
+            <span className="section-index od-eyebrow">03 / ROUTING</span>
+            <h2>Fast by default.<br /><span className="od-accent">Deliberate when hard.</span></h2>
           </div>
         </div>
         <div className="model-grid">
@@ -231,10 +237,10 @@ export default function Home() {
       </section>
 
       <section className="security-section" id="security">
-        <div className="shell-width security-inner">
+        <div className="od-shell security-inner">
           <div>
-            <span className="section-index">04 / TRUST</span>
-            <h2>Nothing hidden in the bootstrap.</h2>
+            <span className="section-index od-eyebrow">04 / TRUST</span>
+            <h2>Nothing <span className="od-accent">hidden</span><br />in the bootstrap.</h2>
           </div>
           <div className="security-list">
             <p><span>01</span>No copied API keys, tokens, or provider credentials.</p>
@@ -245,7 +251,7 @@ export default function Home() {
         </div>
       </section>
 
-      <footer className="footer shell-width">
+      <footer className="footer od-shell">
         <div className="brand footer-brand">
           <span className="brand-mark">O</span>
           <span>OPNDRM / FOUNDERS</span>
