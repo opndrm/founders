@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sites to Framer"
+  short_description: "Convert Codex Sites designs into native Framer projects."
+  default_prompt: "Convert this Codex Sites page into a native Framer project while preserving its source-backed content and visual system."

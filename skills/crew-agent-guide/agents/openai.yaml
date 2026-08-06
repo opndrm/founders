@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Agent Guide"
+  short_description: "Guide setup one clear step at a time"
+  default_prompt: "Use $crew-agent-guide to guide this setup one step at a time."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Distribute"
+  short_description: "Govern approved skill distribution"
+  default_prompt: "Use $crew-distribute to plan a safe distribution of one Captain-approved skill across selected agent libraries."

@@ -1,0 +1,17 @@
+onboarding = false
+
+[theme]
+name = "terminal"
+auto_switch = false
+
+[theme.custom]
+panel_bg = "#000000"
+surface0 = "#080808"
+surface1 = "#111111"
+surface_dim = "#050505"
+overlay0 = "#161616"
+overlay1 = "#242424"
+accent = "#00bcd4"
+
+[ui]
+agent_panel_sort = "spaces"

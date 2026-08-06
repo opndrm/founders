@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew HERDR"
+  short_description: "Run the canonical nine-space HERDR workflow"
+  default_prompt: "Use $crew-herdr to inspect or maintain the nine-space JCode, Gate, and Auditor layout."

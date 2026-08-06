@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Review"
+  short_description: "Prepare and run neutral, independent reviews"
+  default_prompt: "Use Crew Review to prepare and coordinate an independent review of this work."

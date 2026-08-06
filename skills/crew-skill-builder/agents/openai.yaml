@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Skill Builder"
+  short_description: "Build reliable Crew skills"
+  default_prompt: "Use $crew-skill-builder to create or improve a focused Crew skill."

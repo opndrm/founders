@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Git Move"
+  short_description: "Safely migrate a complete Git repository"
+  default_prompt: "Use $crew-git-move for /crew git move to migrate this repository while preserving and verifying its complete recoverable Git history."

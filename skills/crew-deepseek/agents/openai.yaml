@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew DeepSeek"
+  short_description: "Research with DeepSeek-guided synthesis"
+  default_prompt: "Use $crew-deepseek to research this question and clearly separate evidence from conclusions."

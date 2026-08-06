@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Audit"
+  short_description: "Read-only SSS audit of Crew and JCode evidence"
+  default_prompt: "Audit the current Crew and JCode evidence without changing repository, terminal, pipeline, or tracker state."

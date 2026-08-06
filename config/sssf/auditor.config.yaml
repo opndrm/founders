@@ -1,0 +1,18 @@
+defaults:
+  coding_agent: pi
+  model: ollama/deepseek-v4-flash:0731-cloud
+  thinking: "off"
+  tools: [read, grep, find, ls]
+  protected_files: ["**/*"]
+  data_dir: adws/adw_data
+
+observability:
+  db: adws/adw_data/sssf.db
+  poll_ms: 500
+
+agents:
+  - name: auditor
+    color: "#00bcd4"
+    purpose: Read-only evidence auditor for the Desktop/App checkout. Never modify files or operate Git, GitHub, JCode, or No Mistakes.
+    writes: []
+    tools: [read, grep, find, ls]

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Shot"
+  short_description: "Turn approved Crew site pages into visible linked GitHub README artwork"
+  default_prompt: "Use Crew Shot to capture approved Crew pages, review the artwork, and prepare it for the GitHub README."

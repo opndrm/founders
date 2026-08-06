@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sketch"
+  short_description: "Inspect Sketch documents through the native MCP connection"
+  default_prompt: "Connect to Sketch and help me inspect or analyze the current document."

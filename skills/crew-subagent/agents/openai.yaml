@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Subagent"
+  short_description: "Delegate independent work with controlled limits"
+  default_prompt: "Use $crew-subagent to plan a safe, bounded delegation."

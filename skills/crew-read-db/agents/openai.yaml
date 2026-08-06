@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Read DB"
+  short_description: "Safely provision and use viewer-only database access"
+  default_prompt: "Use Crew Read DB to plan safe read-only AI access for this application database."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Game Fast64"
+  short_description: "Export original Blender assets through Fast64 into Pyrite64."
+  default_prompt: "Set up or validate the Blender to Fast64 to Pyrite64 model import workflow."

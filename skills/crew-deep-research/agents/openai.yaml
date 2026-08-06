@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Deep Research"
+  short_description: "Run bounded, source-backed research"
+  default_prompt: "Use $crew-deep-research to research this question with credible sources."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crew Git Tree"
+  short_description: "Create safe isolated Git workspaces for parallel tasks"
+  default_prompt: "Use Crew Git Tree to plan isolated worktrees for these independent tasks."
