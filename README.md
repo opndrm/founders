@@ -162,12 +162,6 @@ Native macOS close, minimize, and maximize controls remain visible. Existing HER
 
 Read the complete trust boundary in [SECURITY.md](SECURITY.md).
 
-## Project status
-
-- Codex Site: [OPNDRM Founders Workflow](https://opndrm-founders.whiteoutdreams.chatgpt.site)
-- Repository: [opndrm/founders](https://github.com/opndrm/founders)
-- Validation: macOS Bash and Windows PowerShell GitHub Actions
-
 <div align="center">
 
 <br>
