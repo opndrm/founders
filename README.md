@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### [Open the OPNDRM Founders site →](https://opndrm-founders.whiteoutdreams.chatgpt.site)
+### [Open the OPNDRM Founders site →].      opndrm.com
 
 </div>
 
