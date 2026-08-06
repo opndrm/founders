@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### [Open the OPNDRM Founders site →].      opndrm.com
+### [Open the OPNDRM Founders site →].      opndrm.com/founders
 
 </div>
 
